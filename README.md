@@ -66,7 +66,7 @@ Durante o desenvolvimento, pratiquei e aprimorei conceitos como:
     ├── assets/          
     ├── LICENSE          
     ├── app.js          
-    ├── index.html   <─     
+    ├── index.html   <──     
     ├── style.css       
     └── README.md          
     ```
@@ -75,6 +75,25 @@ ou
 👉 Clique [AQUI](https://andremelchior.github.io/Amigo-Secreto/) para acessar o site online
 
 ---
+
+### Tutorial
+
+1. Digite o nome de um amigo e o adicione
+
+<img src="assets/passo1-2.png" height="400">
+
+<br>
+
+2. Adicione mais amigos e depois clique em "Sortear amigo"
+
+<img src="assets/passo3.png" height="400">
+
+<br>
+
+3. Veja o resultado do sorteio :)
+
+<img src="assets/passo4.png" height="400">
+
 
 ### 📝 Licença
 
