@@ -78,7 +78,7 @@ ou
 
 ---
 
-### Tutorial
+### 📖 Tutorial
 
 1. Digite o nome de um amigo e o adicione
 
