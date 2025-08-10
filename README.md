@@ -82,19 +82,19 @@ ou
 
 1. Digite o nome de um amigo e o adicione
 
-<img src="assets/passo1-2.png" height="300" alt="primeiro passo">
+<img src="assets/passo1-2.png" height="380" alt="primeiro passo">
 
 <br>
 
 2. Adicione mais amigos e depois clique em "Sortear amigo"
 
-<img src="assets/passo3.png" height="300" alt="segundo passo">
+<img src="assets/passo3.png" height="380" alt="segundo passo">
 
 <br>
 
 3. Veja o resultado do sorteio :)
 
-<img src="assets/passo4.PNG" height="300" alt="terceiro passo">
+<img src="assets/passo4.PNG" height="380" alt="terceiro passo">
 
 
 ### 📝 Licença
