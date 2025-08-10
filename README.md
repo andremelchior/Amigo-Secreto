@@ -1,4 +1,4 @@
-# 🎯 Challenge Amigo Secreto
+# Challenge Amigo Secreto
 
 Site para adicionar amigos em uma lista e sortear o escolhido.
 
@@ -25,8 +25,8 @@ Durante o desenvolvimento, pratiquei e aprimorei conceitos como:
 - 🖱 **Manipulação do DOM**: Alterando elementos HTML dinamicamente  
 - ⚙ **Funções**: Organizando e reutilizando blocos de código  
 - 📦 **Array**: Armazenando e manipulando dados de forma dinâmica com vetor  
-- 📋 **Trello**: Desenvolvimento de acordo com backlog list no Trello
 - 🔁 **Laços de repetição**: Uso do **for** para iterações
+- 📋 **Trello**: Desenvolvimento de acordo com backlog list no Trello
 
 ---
 
@@ -56,10 +56,12 @@ Durante o desenvolvimento, pratiquei e aprimorei conceitos como:
     ```
 
 ### ▶️ Como executar
+
 1. Abra a pasta do projeto
     ```bash
     Numero-Secreto/
     ```
+
 2. Abra o arquivo **index.html** em seu navegador
     ```bash
     Numero-Secreto/
