@@ -21,3 +21,14 @@ function listarAmigo(){
         lista.innerHTML += `<li>${amigos[i]}</li>`;
     }
 }
+
+function sortearAmigo(){
+    quantidadeAmigos = amigos.length;
+    if(amigos.length > 0){
+        let numeroSorteado = Math.floor(Math.random() * quantidadeAmigos);
+        let resultado = document.getElementById("listaAmigos");
+        resultado.innerHTML = `<li>${amigos[numeroSorteado]}</li>`;
+    } else {
+        alert("Por favor, adicione um amigo.");
+    }
+}
