@@ -94,7 +94,7 @@ ou
 
 3. Veja o resultado do sorteio :)
 
-<img src="assets/passo4.png" height="300" alt="terceiro passo">
+<img src="assets/passo4.PNG" height="300" alt="terceiro passo">
 
 
 ### 📝 Licença
